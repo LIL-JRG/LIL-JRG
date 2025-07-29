@@ -1,5 +1,10 @@
-<h1 align="center">Hey! Soy Jorge 👋</h1>
-<p align="center">Desarrollador web full-stack, soñador digital y eterno aprendiz. Apasionado por construir cosas bonitas, funcionales y que ayuden a las personas. Desde el corazón del Istmo, al mundo 🌎.</p>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&duration=4000&pause=1000&color=FFD01E&center=true&vCenter=true&width=435&lines=Hola!+Soy+Jorge+Rasgado+%F0%9F%91%8B;FrontEnd-Developer+%F0%9F%92%BB;%23AstroLover+%F0%9F%9A%80;Currenlty%3A+Learning+Nodejs+" alt="Typing SVG" /></a>
+</h1>
+
+<br>
+<p align="center">Desarrollador web Front-End, soñador digital y eterno aprendiz. Apasionado por construir cosas bonitas, funcionales y que ayuden a las personas. Desde el corazón del Istmo, al mundo 🌎.</p>
+<br>
 
 ---
 
