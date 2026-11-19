@@ -29,4 +29,9 @@ Most of my work lives in private client repos, so the graph counts those contrib
   <img src="https://streak-stats.demolab.com?user=LIL-JRG&background=0B0D12&border=0B0D12&stroke=2A2F3A&ring=F5B93A&fire=F5B93A&currStreakNum=EEF0F5&sideNums=EEF0F5&currStreakLabel=F5B93A&sideLabels=9AA0AE&dates=6B7280&hide_border=true&border_radius=12" alt="Contribution streak">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LIL-JRG/LIL-JRG/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/LIL-JRG/LIL-JRG/output/snake-light.svg" alt="A snake eating my contribution graph" width="100%">
+</picture>
+
 <sub>Open to freelance work on casino and iGaming platforms. Reach me through the <a href="https://lil-jrg.dev/#contact">contact form</a>.</sub>
