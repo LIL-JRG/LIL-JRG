@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://lil-jrg.dev"><img src="https://img.shields.io/badge/Portfolio-lil--jrg.dev-F5B93A?style=for-the-badge&labelColor=0B0D12" alt="Portfolio: lil-jrg.dev"></a>
   <a href="https://lil-jrg.dev/#contact"><img src="https://img.shields.io/badge/Hire_me-Contact_form-EEF0F5?style=for-the-badge&labelColor=0B0D12" alt="Hire me: contact form"></a>
+  <a href="https://x.com/lil_jrg"><img src="https://img.shields.io/badge/X-@lil__jrg-EEF0F5?style=for-the-badge&logo=x&logoColor=EEF0F5&labelColor=0B0D12" alt="X: @lil_jrg"></a>
 </p>
 
 I build online casinos end to end: original games, the crypto cashier, live chat and the admin panel behind them.
