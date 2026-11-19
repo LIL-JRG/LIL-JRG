@@ -1,7 +1,7 @@
-<a href="https://lil-jrg.dev"><img src="assets/banner.png" alt="Lil-JRG: casino platforms and original games" width="100%"></a>
+<a href="https://lil-jrg.dev"><img src="assets/banner.png" alt="Lil-JRG: full-stack apps and online casinos" width="100%"></a>
 
 <p align="center">
-  <a href="https://lil-jrg.dev"><img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=600&size=22&duration=2800&pause=900&color=F5B93A&center=true&vCenter=true&width=520&lines=Original+casino+games;Rounds+players+can+verify;Crypto+cashier+and+live+chat;Admin+panels+your+team+can+run" alt="Original casino games, rounds players can verify, crypto cashier and live chat, admin panels"></a>
+  <a href="https://lil-jrg.dev"><img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=600&size=22&duration=2800&pause=900&color=F5B93A&center=true&vCenter=true&width=520&lines=Full-stack+web+apps;APIs+and+realtime+features;Admin+panels+and+dashboards;Original+casino+games" alt="Full-stack web apps, APIs and realtime features, admin panels and dashboards, original casino games"></a>
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
   <a href="https://x.com/lil_jrg"><img src="https://img.shields.io/badge/X-@lil__jrg-EEF0F5?style=for-the-badge&logo=x&logoColor=EEF0F5&labelColor=0B0D12" alt="X: @lil_jrg"></a>
 </p>
 
-I build online casinos end to end: original games, the crypto cashier, live chat and the admin panel behind them.
+Full-stack developer. I build web apps end to end, from the interface to the API and the database: CRMs, ERPs, booking sites, dashboards and realtime features.
 
-Right now I'm building [TreasureGG](https://treasure.gg) front to back, including its Case Battles, Case Opening, Mines, Blackjack and Keno. You can play a Mines round and use the live chat on [my portfolio](https://lil-jrg.dev).
+Lately most of my work is online casinos. Right now I'm building [TreasureGG](https://treasure.gg) front to back: its original games (Case Battles, Case Opening, Mines, Blackjack and Keno), the crypto cashier, live chat and admin panel. You can play a Mines round and use the live chat on [my portfolio](https://lil-jrg.dev).
 
 ### Stack
 
@@ -35,4 +35,4 @@ Most of my work lives in private client repos, so the graph counts those contrib
   <img src="https://raw.githubusercontent.com/LIL-JRG/LIL-JRG/output/snake-light.svg" alt="A snake eating my contribution graph" width="100%">
 </picture>
 
-<sub>Open to freelance work on casino and iGaming platforms. Reach me through the <a href="https://lil-jrg.dev/#contact">contact form</a>.</sub>
+<sub>Open to freelance work on web apps and casino platforms. Reach me through the <a href="https://lil-jrg.dev/#contact">contact form</a>.</sub>
